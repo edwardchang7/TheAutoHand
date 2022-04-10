@@ -12,4 +12,4 @@ It is important to note that there would be an extremely more complicated proces
 To summarize, when the user performs a strong muscle contraction by closing their hand, the digital value will be higher than the threshold value and thus The AutoHand will also close its hand. When the user opens their hand by relaxing their muscles, the digital value will be lower than the threshold value and thus The AutoHand will also open its hand.
 
 ## Demo (Click on the picture)
-[![Watch the video](https://i.imgur.com/SpXWPFZ.jpg)](https://streamable.com/7yaom2)
+[![Watch the video](https://i.imgur.com/pM33V2b.jpg)](https://streamable.com/7yaom2)
